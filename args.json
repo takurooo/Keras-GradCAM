@@ -1,0 +1,5 @@
+{
+    "model": "VGG16",
+    "layer": "block5_conv3",
+    "img_path": "./img/dog.jpg"
+}
